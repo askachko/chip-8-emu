@@ -1,0 +1,7 @@
+[
+  {
+    "directory": ".",
+    "command": "gcc -I/usr/local/Cellar/sdl2/2.30.11/include -std=c17 -Wall -Wextra -Werror `sdl2-config --cflags` main.c -o main `sdl2-config --libs`",
+    "file": "main.c"
+  }
+]
